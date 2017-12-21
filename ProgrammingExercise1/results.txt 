@@ -1,0 +1,20 @@
+The following estimates:
+
+Shared-birthday probability for M=10.
+
+sharedProb=0.118500
+
+What is the least value of M for which the shared-birthday probability is larger than 0.5?
+
+The least value of M for which the consecutive-birthdays probability is larger than 0.5 is 21.
+
+The consecutive-birthdays probability for M=10 and K=3.
+
+consecProb=0.033300
+
+With K=3, what is the least value of M for which the consecutive-birthdays probability is larger than 0.5?
+
+The least value of M for which the consecutive birthdays probability is larger than 0.5 is 3.
+
+
+Put these numbers (manually) in a plain text file called results.txt in your directory. For each estimate, use at least 10,000 trials of the experiment.
